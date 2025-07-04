@@ -40,7 +40,7 @@ CodeAlpha_WebScraping/
 <br>
 ├── demo.mp4 : CodeAlpha_WebScraping
 <br>
-└── README.md (https://github.com/Sujaykumar960/CodeAlpha_WebScraping/blob/main/README.md)
+└── README.md ()
 
 
 ## 🧪 Sample Output (Terminal)
@@ -60,8 +60,8 @@ Description: About this itemMonster Durability & Display Corning Gorilla Glass V
 
 ## 🔗 Links
 
-📂 **GitHub Repository**: [github.com/Sujaykumar960/CodeAlpha_WebScraping](https://github.com/Sujaykumar960/CodeAlpha_WebScraping)  
-📹 **Demo Video**: <video controls src="CodeAlpha_WebScraping.mp4" title="Title"></video> (Easily Downloaded from CodeAlpha_WebScraping.mp4 just click view raw.)
+📂 **GitHub Repository**: [https://github.com/rahul191975/Code_Alpha-WebScrapping.git]  
+📹 *Example Video**: <video controls src="CodeAlpha_WebScraping.mp4" title="Title"></video> (Easily Downloaded from CodeAlpha_WebScraping.mp4 just click view raw.)
 
 
 ## 🧠 Tools Used
@@ -82,5 +82,6 @@ Description: About this itemMonster Durability & Display Corning Gorilla Glass V
 
 I’m **Sujay Kumar**, currently pursuing BTech in Computer Science (Data Science). I’m passionate about web automation, Python development, and participating in hackathons.
 
-📌 [LinkedIn](www.linkedin.com/in/sujay-kumar-943088328)(www.linkedin.com/in/sujay-kumar-943088328)
-📌 [GitHub](https://github.com/Sujaykumar960)
+📌 [LinkedIn] [www.linkedin.com/in/rahul-kumar-8010a7328]
+📌 [GitHub]  
+
