@@ -80,8 +80,8 @@ Description: About this itemMonster Durability & Display Corning Gorilla Glass V
 
 ## 🙋‍♂️ About Me
 
-I’m **Sujay Kumar**, currently pursuing BTech in Computer Science (Data Science). I’m passionate about web automation, Python development, and participating in hackathons.
+I’m **Rahul kumar**, currently pursuing BCA (Bachelor of Computer Applications). I’m passionate about Game development,Python development, and participating in hackathons.
 
 📌 [LinkedIn] [www.linkedin.com/in/rahul-kumar-8010a7328]
-📌 [GitHub]  
+📌 [GitHub]  [https://github.com/rahul191975]
 
